@@ -71,3 +71,4 @@ Azure AI Vision provides artificial intelligence capabilities to analyze visual 
 - **Moderation Ratings**: Detect and classify images as adult, racy, or gory based on content.
 - **Brands and Objects Detection**: Identify brands and specific objects with bounding boxes.
 
+@princyi
