@@ -48,9 +48,11 @@ Azure AI Vision provides artificial intelligence capabilities to analyze visual 
 ##Output
 
 -Original Image
+![street](https://github.com/user-attachments/assets/3cc765b7-4737-465a-8926-63ff7c3f65b5)
 
  
--Modified(Analyzed) Screen shot
+-Modified(Analyzed) Screenshot
+![Screenshot 2024-10-28 105001](https://github.com/user-attachments/assets/14cc21f6-c73b-4d64-9f76-91e23f33ad57)
 
  
 
